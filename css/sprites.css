@@ -1,0 +1,245 @@
+.customers, .dashboard, .messages, .promotions, .page-creator, .Analytics, .icon-dashboard, .icon-customers, .icon-messages, .icon-promotions, .icon-pagecreator, .icon-analytics, .Marker, .icon-search, .icon-settings, .Path, .Ellipse, .Path2, .Ellipse2, .icon-article, .icon-checklist, .icon-tip, .Path3, .form-checkbox, .Path4, .Path5, .Path6, .Path7, .Pie-Graph, .Pie-Graph2, .Path8, .Path9, .Back, .Next, .icon-help, .icon-settings2, .Button-Navigation-Small, .Button-Navigation-Small2{
+	background: url(sprites.png) no-repeat;
+}
+
+.customers{
+	background-position: -1px -4px ;
+	width: 62px;
+	height: 64px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.dashboard{
+	background-position: -69px -2px ;
+	width: 60px;
+	height: 73px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.messages{
+	background-position: -135px -5px ;
+	width: 60px;
+	height: 65px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.promotions{
+	background-position: -197px -3px ;
+	width: 60px;
+	height: 69px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.page-creator{
+	background-position: -257px -2px ;
+	width: 60px;
+	height: 70px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.Analytics{
+	background-position: -324px -5px ;
+	width: 60px;
+	height: 66px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.icon-dashboard{
+	background-position: -71px -81px ;
+	width: 58px;
+	height: 58px;
+}
+
+.icon-customers{
+	background-position: -2px -79px ;
+	width: 62px;
+	height: 42px;
+}
+
+.icon-messages{
+	background-position: -137px -81px ;
+	width: 57px;
+	height: 48px;
+}
+
+.icon-promotions{
+	background-position: -202px -81px ;
+	width: 50px;
+	height: 50px;
+}
+
+.icon-pagecreator{
+	background-position: -266px -79px ;
+	width: 45px;
+	height: 50px;
+}
+
+.icon-analytics{
+	background-position: -325px -79px ;
+	width: 42px;
+	height: 50px;
+}
+
+.Marker{
+	background-position: -554px -23px ;
+	width: 40px;
+	height: 10px;
+}
+
+.icon-search{
+	background-position: -514px -17px ;
+	width: 23px;
+	height: 22px;
+	display: inline-block;
+}
+
+.icon-settings{
+	background-position: -358px -164px ;
+	width: 20px;
+	height: 20px;
+}
+
+.Path{
+	background-position: -412px -67px ;
+	width: 20px;
+	height: 20px;
+}
+
+.Ellipse{
+	background-position: -514px -164px ;
+	width: 24px;
+	height: 24px;
+}
+
+.Path2{
+	background-position: -412px -116px ;
+	width: 20px;
+	height: 20px;
+}
+
+.Ellipse2{
+	background-position: -511px -117px ;
+	width: 24px;
+	height: 24px;
+}
+
+.icon-article{
+	background-position: -566px -115px ;
+	width: 19px;
+	height: 23px;
+}
+
+.icon-checklist{
+	background-position: -515px -66px ;
+	width: 22px;
+	height: 20px;
+}
+
+.icon-tip{
+	background-position: -465px -115px ;
+	width: 14px;
+	height: 23px;
+}
+
+.Path3{
+	background-position: -564px -68px ;
+	width: 22px;
+	height: 21px;
+}
+
+.form-checkbox{
+	background-position: -465px -70px ;
+	width: 18px;
+	height: 18px;
+}
+
+.Path4{
+	background-position: -34px -168px ;
+	width: 79px;
+	height: 16px;
+}
+
+.Path5{
+	background-position: -28px -218px ;
+	width: 54px;
+	height: 16px;
+}
+
+.Path6{
+	background-position: -113px -222px ;
+	width: 70px;
+	height: 16px;
+}
+
+.Path7{
+	background-position: -220px -221px ;
+	width: 62px;
+	height: 16px;
+}
+
+.Pie-Graph{
+	background-position: -409px -210px ;
+	width: 80px;
+	height: 80px;
+}
+
+.Pie-Graph2{
+	background-position: -308px -211px ;
+	width: 80px;
+	height: 80px;
+}
+
+.Path8{
+	background-position: -418px -7px ;
+	width: 15px;
+	height: 40px;
+}
+
+.Path9{
+	background-position: -470px -6px ;
+	width: 15px;
+	height: 40px;
+}
+
+.Back{
+	background-position: -216px -153px ;
+	width: 22px;
+	height: 50px;
+}
+
+.Next{
+	background-position: -157px -152px ;
+	width: 22px;
+	height: 50px;
+}
+
+.icon-help{
+	background-position: -312px -167px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-settings2{
+	background-position: -257px -168px ;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+
+.Button-Navigation-Small{
+	background-position: -411px -162px ;
+	width: 22px;
+	height: 22px;
+}
+
+.Button-Navigation-Small2{
+	background-position: -457px -164px ;
+	width: 22px;
+	height: 22px;
+}
