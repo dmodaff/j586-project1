@@ -26,6 +26,10 @@
   border-radius: 5px;
 }
 
+p {
+  font-family: PT Sans;
+}
+
 #dashboard {
   color: white;
   font-family: PT Sans;
@@ -89,19 +93,18 @@
 
 h2 {
   color: #2498f4;
+  font-family: PT Sans;
 }
 
 #tasks {
   border: #f0f0f0 solid 1px;
   border-left: none;
   border-right: none;
-  font-family: PT Sans;
 }
 
 #analytics {
   border: #f0f0f0 solid 1px;
   border-right: none;
-  font-family: PT Sans;
 }
 
 h4 {
@@ -122,4 +125,12 @@ h4 {
   border: #eeeeee 1px solid;
   border-radius: 5px;
   display: inline-block;
+}
+
+#tiny-type {
+  font-size: 10pt;
+}
+
+#recommendations-type {
+  font-size: 12pt;
 }
