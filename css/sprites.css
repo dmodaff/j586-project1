@@ -133,18 +133,21 @@
 	background-position: -566px -115px ;
 	width: 19px;
 	height: 23px;
+	padding-right: 5px;
 }
 
 .icon-checklist{
 	background-position: -515px -66px ;
 	width: 22px;
 	height: 20px;
+	padding-right: 5px;
 }
 
 .icon-tip{
 	background-position: -465px -115px ;
 	width: 14px;
 	height: 23px;
+	padding-right: 5px;
 }
 
 .Path3{
@@ -157,6 +160,8 @@
 	background-position: -465px -70px ;
 	width: 18px;
 	height: 18px;
+	display: inline-block;
+	padding-right: 8px;
 }
 
 .Path4{
@@ -211,12 +216,20 @@
 	background-position: -216px -153px ;
 	width: 22px;
 	height: 50px;
+	display:inline-block;
+	position: absolute;
+	margin-top: 8%;
+	margin-bottom: 8%;
 }
 
 .Next{
 	background-position: -157px -152px ;
 	width: 22px;
 	height: 50px;
+	display:inline-block;
+	position: absolute;
+	margin-top: 8%;
+	margin-bottom: 8%;
 }
 
 .icon-help{
@@ -243,3 +256,5 @@
 	width: 22px;
 	height: 22px;
 }
+
+@media (max-width:768px) {
